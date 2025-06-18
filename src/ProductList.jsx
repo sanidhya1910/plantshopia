@@ -266,7 +266,7 @@ function ProductList() {
 			<div className='navbar' style={styleObj}>
 				<div className='tag'>
 					<a
-						href='/paradise-nursery-shopping-cart-app/'
+						href='/plantshopia/'
 						style={{ textDecoration: 'none' }}
 						className='luxury'
 					>
