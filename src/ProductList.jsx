@@ -277,7 +277,7 @@ function ProductList() {
 						<div className='luxury-text'>
 							<div>
 								<h3 style={{ color: 'white' }}>
-									Paradise Nursery
+									Plantshopia
 								</h3>
 								<i style={{ color: 'white' }}>
 									Where Green Meets Serenity
